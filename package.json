@@ -16,5 +16,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "enis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enisrasimi/server-login-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enisrasimi/server-login-api/issues"
+  },
+  "homepage": "https://github.com/enisrasimi/server-login-api#readme"
 }
