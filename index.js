@@ -9,7 +9,7 @@ app.use(bodyParser.json())
 app.use(cors())
 
 const db = require('knex')({
-    client: 'pg',
+    client: 'g',
     connection: {
       host : '127.0.0.1',
       user : 'postgres',
